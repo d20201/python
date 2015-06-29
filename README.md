@@ -13,3 +13,8 @@ Also here is how to make sure you're local account is synced up to your Github a
 
 ![ScreenGrab] (https://github.com/sprckt/python/blob/master/accounts.png "Desktop Preferences")
 
+> 
+
+Oh yeah, I forgot this wasn’t actually python.
+
+What do you use to run an .mk file?
