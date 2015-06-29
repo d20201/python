@@ -6,4 +6,4 @@ print “Github Sucks”
 
 ##This is so painful.......
 
-“””These are my changes”””
+“””There is no point committing the change without syncing”””
