@@ -1,3 +1,6 @@
 # python
 
-Hello this is a test
+""" This is our Readme file. I'm not sure what it's supposed to do """
+
+print "Read Me"
+
